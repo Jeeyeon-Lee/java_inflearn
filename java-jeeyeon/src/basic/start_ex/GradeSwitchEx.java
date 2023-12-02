@@ -1,0 +1,30 @@
+package basic.start_ex;
+
+public class GradeSwitchEx {
+    public static void main(String[] args) {
+        String grade = "B";
+
+        switch (grade) {
+            case "A":
+                System.out.println("탁월한 성과입니다.");
+                break;
+            case "B":
+                System.out.println("우수한 성과입니다.");
+                break;
+            case "C":
+                System.out.println("적절한 성과입니다.");
+                break;
+            case "D":
+                System.out.println("준수한 성과입니다.");
+                break;
+            case "E":
+                System.out.println("향상이 필요한 성과입니다.");
+                break;
+            case "F":
+                System.out.println("불합격 입니다..");
+                break;
+            default:
+                System.out.println("잘못된 입력값입니다.");
+        }
+    }
+}
