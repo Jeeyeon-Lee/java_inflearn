@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a87b454b-41c7-4947-aeb5-a6dcffb6008e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/java-jeeyeon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/access/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/access/Speaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/access/SpeakerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/access/SpeakerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/BuyProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/BuyProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ForEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/GradeSwitchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/GradeSwitchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/MovieRateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/MovieRateEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/OperationEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ScannerEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ScannerEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ScoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/ScoreEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/VarEx1Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/VarEx1Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/WhileEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/WhileEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/WhileEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/basic/start_ex/WhileEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart5.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ClassStart5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/MovieReview2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/ProductOrder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/class1/ex/ProductOrder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/OrderHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/OrderHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/product/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/user/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/com/helloshop/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/ConstructMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/ConstructMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/ConstructMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/ConstructMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberDefaultMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberDefaultMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MemberThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/MethodInitMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/ex/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/ex/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/construct/ex/BookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/construct/ex/BookMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/MusicPlayerMain4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueDataMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueDataMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/AccountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/RectangleOopMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/RectangleOopMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/RectangleProceduralMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/oop1/ex/RectangleProceduralMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/PackageMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/a/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/a/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/a/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/a/User2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/b/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/b/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/pack/b/User2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/pack/b/User2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/BigData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/BigData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/InitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/InitData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/InitMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/InitMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/Method1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/MethodChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/MethodChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/MethodChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/MethodChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/NullMain4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/VarChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/VarChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrderMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrderMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-jeeyeon/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start/java-start.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ZLXMsfZ8Yaa4V6GiH7JJ2N7Znu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SpeakerMain.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jyahn/Documents/dev/workspace/java_inflearn"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87b454b-41c7-4947-aeb5-a6dcffb6008e" name="Changes" comment="" />
+      <created>1702202289727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702202289727</updated>
+    </task>
+    <servers />
+  </component>
+</project>
