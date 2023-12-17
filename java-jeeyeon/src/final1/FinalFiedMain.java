@@ -16,5 +16,6 @@ public class FinalFiedMain {
 
         System.out.println("상수로 접근");
         System.out.println(FieldInit.CONST_VALUE);
+
     }
 }

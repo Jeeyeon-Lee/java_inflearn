@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6530d134-8a4d-430e-a62c-5a6c7348637a" name="변경" comment="1차 커밋">
-      <change beforePath="$PROJECT_DIR$/src/final1/ConstructInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/final1/FieldInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/final1/FinalFiedMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/FinalFiedMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +43,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jeeyeon-Lee"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="eaf26ad4-e127-4f8c-8595-3c0a858b98bd" />
+        <option name="url" value="https://github.com/Jeeyeon-Lee/java_inflearn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2ZfNM8t9jVD68i82yeHAd6E7QNh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,18 +73,34 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jyahn/dev/workspace/java_inflearn/java-jeeyeon/src/extends1/ex3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CarMain.executor": "Run",
+    "애플리케이션.ConstantMain1.executor": "Run",
     "애플리케이션.FinalFiedMain.executor": "Run",
-    "애플리케이션.FinalLocalMain.executor": "Run"
+    "애플리케이션.FinalLocalMain.executor": "Run",
+    "애플리케이션.FinalRefMain.executor": "Run",
+    "애플리케이션.MembarMain.executor": "Run",
+    "애플리케이션.MemberMain.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/ex3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="extends1.ex3" />
+      <recent name="final1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -57,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702809124440</updated>
-      <workItem from="1702809125953" duration="1414000" />
+      <workItem from="1702809125953" duration="5472000" />
     </task>
     <task id="LOCAL-00001" summary="1차 커밋">
       <option name="closed" value="true" />
@@ -75,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702809460125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1차 커밋">
+      <option name="closed" value="true" />
+      <created>1702810921193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702810921193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
