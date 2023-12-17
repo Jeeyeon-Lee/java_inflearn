@@ -4,29 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6530d134-8a4d-430e-a62c-5a6c7348637a" name="변경" comment="1차 커밋">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
+    <list default="true" id="6530d134-8a4d-430e-a62c-5a6c7348637a" name="변경" comment="2차 커밋">
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/access/parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super1/SuperMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/PolyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/final1/FinalFiedMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final1/FinalFiedMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +55,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jeeyeon-Lee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jeeyeon-Lee&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -57,10 +69,10 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ZfNM8t9jVD68i82yeHAd6E7QNh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,7 +88,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jyahn/dev/workspace/java_inflearn/java-jeeyeon/src/extends1/ex3",
+    "last_opened_file_path": "/Users/jyahn/dev/workspace/java_inflearn/java-jeeyeon/src/extends1/overriding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,21 +96,36 @@
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.CarMain.executor": "Run",
+    "애플리케이션.CastingMain1.executor": "Run",
+    "애플리케이션.CastingMain2.executor": "Run",
+    "애플리케이션.CastingMain4.executor": "Run",
+    "애플리케이션.CastingMain5.executor": "Run",
+    "애플리케이션.CastingMain6.executor": "Run",
     "애플리케이션.ConstantMain1.executor": "Run",
+    "애플리케이션.ExtendsAccessMain.executor": "Run",
     "애플리케이션.FinalFiedMain.executor": "Run",
     "애플리케이션.FinalLocalMain.executor": "Run",
     "애플리케이션.FinalRefMain.executor": "Run",
     "애플리케이션.MembarMain.executor": "Run",
-    "애플리케이션.MemberMain.executor": "Run"
+    "애플리케이션.MemberMain.executor": "Run",
+    "애플리케이션.OverridingMain.executor": "Run",
+    "애플리케이션.PolyMain.executor": "Run",
+    "애플리케이션.ShopMain.executor": "Run",
+    "애플리케이션.Super2Main.executor": "Run",
+    "애플리케이션.SuperMain.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/extends1/overriding" />
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.overriding" />
+      <recent name="poly.basic" />
+      <recent name="extends1.ex" />
+      <recent name="extends1.super2" />
       <recent name="extends1.ex3" />
-      <recent name="final1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -110,6 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702809124440</updated>
       <workItem from="1702809125953" duration="5472000" />
+      <workItem from="1702815916422" duration="11680000" />
     </task>
     <task id="LOCAL-00001" summary="1차 커밋">
       <option name="closed" value="true" />
@@ -135,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702810921193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2차 커밋">
+      <option name="closed" value="true" />
+      <created>1702815931798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702815931798</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1차 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="1차 커밋" />
+    <MESSAGE value="2차 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="2차 커밋" />
   </component>
 </project>
